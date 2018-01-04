@@ -187,6 +187,7 @@ display_centroids(sample_cluster_rows)
 
 
 # In[258]:
+#### Same code with different initial cluster assignment, we will try to see if the accuracy changes
 
 
 train_x = train_x[0:500]
